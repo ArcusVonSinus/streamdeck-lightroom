@@ -48,6 +48,7 @@ local develop_params = {
 	"Clarity",
 	"Vibrance",
 	"Saturation",
+	"PostCropVignetteAmount"
 	}
 local develop_param_set = {}
 for _, key in ipairs( develop_params ) do
